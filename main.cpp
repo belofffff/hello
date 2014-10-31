@@ -1,5 +1,5 @@
 #include "sdt.h"
-
+//учебная прога
 int main()
 {
 cout<<"Input x1 :";
