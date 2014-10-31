@@ -11,4 +11,5 @@ x=x1+x2;
 cout<<"Summa="<<x<<'\n';
 cout<<"x1-x2="<<x1-x2<<'\n';
 cout<<"x1*x2="<<x1*x2;
+cout<<"x1/x2="<<x1/x2;
 }
